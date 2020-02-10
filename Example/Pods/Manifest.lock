@@ -1,0 +1,16 @@
+PODS:
+  - SafeCollectionAccess (0.1.0)
+
+DEPENDENCIES:
+  - SafeCollectionAccess (from `../`)
+
+EXTERNAL SOURCES:
+  SafeCollectionAccess:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  SafeCollectionAccess: 2861e15990b2e54386f4a8167906db90292bb4f5
+
+PODFILE CHECKSUM: 357038de464ee23597f1f7899748707b89c4b79e
+
+COCOAPODS: 1.8.4

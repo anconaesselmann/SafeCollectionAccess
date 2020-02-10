@@ -1,0 +1,6 @@
+use_frameworks!
+target 'SafeCollectionAccess_Tests' do
+  pod 'SafeCollectionAccess', :path => '../'
+  
+  
+end
